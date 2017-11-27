@@ -1,0 +1,9 @@
+/Users/bkila/Desktop/collectionsPractice/bin/Debug/netcoreapp1.1/collectionsPractice.deps.json
+/Users/bkila/Desktop/collectionsPractice/bin/Debug/netcoreapp1.1/collectionsPractice.runtimeconfig.json
+/Users/bkila/Desktop/collectionsPractice/bin/Debug/netcoreapp1.1/collectionsPractice.runtimeconfig.dev.json
+/Users/bkila/Desktop/collectionsPractice/bin/Debug/netcoreapp1.1/collectionsPractice.dll
+/Users/bkila/Desktop/collectionsPractice/bin/Debug/netcoreapp1.1/collectionsPractice.pdb
+/Users/bkila/Desktop/collectionsPractice/obj/Debug/netcoreapp1.1/collectionsPractice.csproj.CoreCompileInputs.cache
+/Users/bkila/Desktop/collectionsPractice/obj/Debug/netcoreapp1.1/collectionsPractice.AssemblyInfo.cs
+/Users/bkila/Desktop/collectionsPractice/obj/Debug/netcoreapp1.1/collectionsPractice.dll
+/Users/bkila/Desktop/collectionsPractice/obj/Debug/netcoreapp1.1/collectionsPractice.pdb
