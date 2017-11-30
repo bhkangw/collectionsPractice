@@ -54,6 +54,8 @@ namespace collectionsPractice
             flavors.Add("Strawberry");
             flavors.Add("Pistacio");
             flavors.Add("Rocky Road");
+            flavors.Add("Cheesecake");
+            flavors.Add("Birthday Cake");
             // Output the length of this list after building it
             Console.WriteLine(flavors.Count);
             // Output the third flavor in the list, then remove this value.
